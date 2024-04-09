@@ -1,0 +1,21 @@
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\ind1zad8\bin\Debug\ind1zad8.exe.config
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\ind1zad8\bin\Debug\ind1zad8.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\ind1zad8\bin\Debug\ind1zad8.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\ind1zad8\obj\Debug\ind1zad8.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\ind1zad8\obj\Debug\ind1zad8.csproj.SuggestedBindingRedirects.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\ind1zad8\obj\Debug\ind1zad8.Form1.resources
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\ind1zad8\obj\Debug\ind1zad8.Properties.Resources.resources
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\ind1zad8\obj\Debug\ind1zad8.csproj.GenerateResource.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\ind1zad8\obj\Debug\ind1zad8.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\ind1zad8\obj\Debug\ind1zad8.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\ind1zad8\obj\Debug\ind1zad8.pdb
+D:\Загрузки\ind1zad8\bin\Debug\ind1zad8.exe.config
+D:\Загрузки\ind1zad8\bin\Debug\ind1zad8.exe
+D:\Загрузки\ind1zad8\bin\Debug\ind1zad8.pdb
+D:\Загрузки\ind1zad8\obj\Debug\ind1zad8.csproj.AssemblyReference.cache
+D:\Загрузки\ind1zad8\obj\Debug\ind1zad8.Form1.resources
+D:\Загрузки\ind1zad8\obj\Debug\ind1zad8.Properties.Resources.resources
+D:\Загрузки\ind1zad8\obj\Debug\ind1zad8.csproj.GenerateResource.cache
+D:\Загрузки\ind1zad8\obj\Debug\ind1zad8.csproj.CoreCompileInputs.cache
+D:\Загрузки\ind1zad8\obj\Debug\ind1zad8.exe
+D:\Загрузки\ind1zad8\obj\Debug\ind1zad8.pdb
